@@ -62,6 +62,11 @@ Este es un ~~texto~~ tachado
 <!-- GitHub MarkDown -->
 
 - [x] tarea 1
-- [] tarea 2
-- [] tarea 3
+- [ ] tarea 2
+- [ ] tarea 3
 - [x] tarea 4
+
+
+<!-- emojis -->
+
+@DavidV :smiley: :+1:
